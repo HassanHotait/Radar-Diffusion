@@ -53,4 +53,4 @@ def generate_new_files(directory):
 
 
 
-generate_new_files('./coloradar_raw_unzipped')
+generate_new_files('/work3/s203211/datasets/coloradar')
